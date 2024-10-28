@@ -3,7 +3,7 @@
 - 👀 excited to connect with fellow coders
 - ⚡ power of collaboration
 - 📫 sppu
-- 
+
 
 <!---
 Vasudha-29/Vasudha-29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
